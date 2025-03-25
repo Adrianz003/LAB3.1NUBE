@@ -1,4 +1,3 @@
 <?php
-
-$cadena = "Hola Mundo!";
-echo $cadena;
+echo "Hola Mundo!";
+?>
