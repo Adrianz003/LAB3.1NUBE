@@ -1,10 +1,4 @@
 <?php
+echo "Hola Mundo" ;
 
-$cadena = "Hola Mundo!";
-$lista = [];
-
-foreach (str_split($cadena) as $i) {
-    $lista[] = $i;
-    echo implode("", $lista) . "<br>";
-}
 ?>
