@@ -5,6 +5,6 @@ $lista = [];
 
 foreach (str_split($cadena) as $i) {
     $lista[] = $i;
-    echo implode("", $lista) . "\n";
+    echo implode("", $lista) . "<br>";
 }
 ?>
